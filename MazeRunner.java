@@ -1,5 +1,5 @@
 /*============================================================================================================================================
-MazeOOP
+MazeRunner
 Scott Hopton
 November 3, 2019
 Java 4.8.0
@@ -34,7 +34,7 @@ List of identifiers:
  */ 
 
 import java.io.*;
-public class MazeOOP {
+public class MazeRunner {
 	
 /**
  * main Method:
@@ -499,7 +499,7 @@ public class MazeOOP {
 	} //end of shortestPathCX method
 
 
-} //end of MazeOOP class
+} //end of MazeRunner class
 
 /**
  * Objects Class:
